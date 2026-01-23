@@ -14,7 +14,6 @@ class Solution:
             i += 2
         return True
     def checkPrimeFrequency(self, nums: list[int]) -> bool:
-        count = []
         for i in nums:
             if nums.count(i) >1 and self.isPrime(nums.count(i)):
                 return True
