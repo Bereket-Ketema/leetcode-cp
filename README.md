@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
