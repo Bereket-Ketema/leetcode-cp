@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0709-to-lower-case) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
