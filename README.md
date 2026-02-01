@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
