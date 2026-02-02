@@ -1,15 +1,16 @@
 class Solution:
     def findRestaurant(self, list1: list[str], list2: list[str]) -> list[str]:
-        small = min(list1, list2)
-        big = max(list1,list2)
         freq = {}
-        store =[]
-        for k in range(len(small)):
-            if small[k] in big:
-                i = k
-                j = big.index(small[k])
-                freq[small[k]] = i+j
-        for k,v in freq.items():
-            if min(freq.values()) == v:
-                store.append(k)
-        return store
+        result = []
+        small = len(list1) + len(list2)
+        for k in range(len(list1)):
+                freq[list1[k]] = k
+        for i in range(len(list2)):
+            if list2[i] in freq:
+                s = i + freq[list2[i]]
+                if s < small:
+                        small = s
+                        result = [list2[i]]
+                elif s == small:
+                    result.append(list2[i])
+        return result
