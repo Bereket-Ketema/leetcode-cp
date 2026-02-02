@@ -1,11 +1,8 @@
 class Solution:
     def largestEven(self, s: str) -> str:
-        l = list(s)
-        if int(''.join(l)) % 2 == 0:
-            return ''.join(l)
-        for i in range(len(l)-1,-1,-1):
-            if int(l[i]) % 2 != 0:
-                l.pop(i)
-            else:
-                return ''.join(l)
-        return ''.join(l)
+        if int(s) % 2 == 0:
+            return s
+        for i in range(len(s)-1,-2,-1):
+            if int(s[i]) % 2 == 0:
+                return s[:i+1]     
+        return ''
