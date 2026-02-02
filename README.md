@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3582-generate-tag-for-video-caption) |
+| [3798-largest-even-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3798-largest-even-number) |
 ## Simulation
 |  |
 | ------- |
