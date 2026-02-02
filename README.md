@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0383-ransom-note) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
