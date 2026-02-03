@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0520-detect-capital) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3794-reverse-string-prefix) |
