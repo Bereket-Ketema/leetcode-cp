@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
