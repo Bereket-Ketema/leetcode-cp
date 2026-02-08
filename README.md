@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
