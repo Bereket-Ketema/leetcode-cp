@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0066-plus-one) |
+| [0229-majority-element-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0290-word-pattern) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0387-first-unique-character-in-a-string) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
