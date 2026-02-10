@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2671-frequency-tracker](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2671-frequency-tracker) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [2671-frequency-tracker](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2671-frequency-tracker) |
 <!---LeetCode Topics End-->
