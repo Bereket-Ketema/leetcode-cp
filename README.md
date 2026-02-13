@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
 ## String
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
