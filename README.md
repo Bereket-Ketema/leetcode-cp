@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
