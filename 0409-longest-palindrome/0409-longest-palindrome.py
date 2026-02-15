@@ -7,7 +7,7 @@ class Solution:
         has_odd = False
 
         for v in freq.values():
-            length += v // 2 * 2   # take only even part
+            length += v // 2 * 2
             if v % 2 == 1:
                 has_odd = True
 
