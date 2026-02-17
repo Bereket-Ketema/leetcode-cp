@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Matrix
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2671-frequency-tracker](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2671-frequency-tracker) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Binary Search
 |  |
 | ------- |
