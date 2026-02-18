@@ -1,5 +1,10 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        result = list(zip(names,heights))
-        result.sort(key = lambda x: x[1], reverse = True)
-        return [a for a, b in result]
+
+        for i in range(len(heights)):
+            for j in range(i+1,len(heights)):
+                if heights[i] < heights[j]:
+                    heights[i], heights[j] = heights[j], heights[i]
+                    names[i], names[j] = names[j], names[i]
+                    
+        return names
