@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2427-number-of-common-factors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2469-convert-the-temperature) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -342,10 +345,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Counting Sort
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
