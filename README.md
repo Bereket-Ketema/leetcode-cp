@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
