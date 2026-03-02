@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2553-separate-the-digits-in-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
 | [3707-equal-score-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3707-equal-score-substrings) |
 ## Recursion
 |  |
