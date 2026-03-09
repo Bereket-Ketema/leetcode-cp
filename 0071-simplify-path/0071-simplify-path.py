@@ -8,10 +8,5 @@ class Solution:
                     stack.pop()
                 elif i != "..":
                     stack.append(i)
-        print(stack)
-        ans = ""
-        for i in stack:
-            if i != "":
-                ans += "/"
-                ans += i
-        return ans if ans else "/"
+        
+        return "/" + "/".join(stack) if stack else "/"
