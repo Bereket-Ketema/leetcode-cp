@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2390-removing-stars-from-a-string) |
@@ -450,5 +452,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
+| [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
