@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0504-base-7) |
+| [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0609-find-duplicate-file-in-system) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0609-find-duplicate-file-in-system) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1109-corporate-flight-bookings) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
