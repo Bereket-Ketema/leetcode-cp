@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
 | [0748-shortest-completing-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0748-shortest-completing-word) |
 | [0811-subdomain-visit-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2390-removing-stars-from-a-string) |
 ## Data Stream
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
 ## Ordered Set
 |  |
 | ------- |
