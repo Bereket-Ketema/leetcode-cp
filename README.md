@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0989-add-to-array-form-of-integer) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
