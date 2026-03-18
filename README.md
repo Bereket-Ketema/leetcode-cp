@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
@@ -565,4 +566,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0237-delete-node-in-a-linked-list) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2487-remove-nodes-from-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
