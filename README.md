@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0476-number-complement) |
+| [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Heap (Priority Queue)
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0338-counting-bits) |
+| [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -624,4 +627,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0077-combinations) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
