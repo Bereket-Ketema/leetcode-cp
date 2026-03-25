@@ -634,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
