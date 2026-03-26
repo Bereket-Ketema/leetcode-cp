@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0119-pascals-triangle-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0338-counting-bits) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0078-subsets) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
