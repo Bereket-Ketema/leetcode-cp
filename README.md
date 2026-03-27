@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0055-jump-game) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0078-subsets) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
