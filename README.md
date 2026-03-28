@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0051-n-queens) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0073-set-matrix-zeroes) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0128-longest-consecutive-sequence) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0078-subsets) |
