@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
@@ -684,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
