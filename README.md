@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0051-n-queens) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0119-pascals-triangle-ii) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0094-binary-tree-inorder-traversal) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
