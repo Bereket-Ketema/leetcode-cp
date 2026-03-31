@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0409-longest-palindrome) |
+| [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0237-delete-node-in-a-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
@@ -752,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0332-reconstruct-itinerary) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
