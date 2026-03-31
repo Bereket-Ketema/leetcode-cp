@@ -7,7 +7,6 @@ class Solution:
         cols = [set() for _ in range(9)]
         boxes = [set() for _ in range(9)]
 
-        # Initialize sets
         for r in range(9):
             for c in range(9):
                 if board[r][c] != ".":
