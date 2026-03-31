@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
 | [0748-shortest-completing-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0748-shortest-completing-word) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
