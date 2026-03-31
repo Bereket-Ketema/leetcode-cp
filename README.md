@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0390-elimination-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0412-fizz-buzz) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Union-Find
 |  |
 | ------- |
