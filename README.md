@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0087-scramble-string) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0498-diagonal-traverse) |
