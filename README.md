@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0076-minimum-window-substring) |
