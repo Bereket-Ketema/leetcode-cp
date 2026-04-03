@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0174-dungeon-game) |
