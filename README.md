@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0564-find-the-closest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0517-super-washing-machines) |
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
+| [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0609-find-duplicate-file-in-system) |
@@ -846,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
