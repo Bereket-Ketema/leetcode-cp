@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0551-student-attendance-record-i) |
 | [0564-find-the-closest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0564-find-the-closest-palindrome) |
+| [0591-tag-validator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0591-tag-validator) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0609-find-duplicate-file-in-system) |
 | [0657-robot-return-to-origin](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0657-robot-return-to-origin) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
+| [0591-tag-validator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0591-tag-validator) |
 | [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
