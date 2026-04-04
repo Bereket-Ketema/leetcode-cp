@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
+| [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0989-add-to-array-form-of-integer) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0748-shortest-completing-word) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
+| [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0811-subdomain-visit-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0860-lemonade-change) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0661-image-smoother) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
+| [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0476-number-complement) |
+| [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
