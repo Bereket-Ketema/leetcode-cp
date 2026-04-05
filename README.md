@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0312-burst-balloons) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0437-path-sum-iii) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0332-reconstruct-itinerary) |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0437-path-sum-iii) |
