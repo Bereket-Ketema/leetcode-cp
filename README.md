@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
@@ -911,5 +914,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
