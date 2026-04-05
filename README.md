@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0273-integer-to-english-words) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0796-rotate-string) |
 ## Trie
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
 ## Backtracking
 |  |
@@ -924,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
