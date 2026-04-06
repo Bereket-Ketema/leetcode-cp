@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0041-first-missing-positive) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0443-string-compression) |
