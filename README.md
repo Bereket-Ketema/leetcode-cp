@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0383-ransom-note) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0463-island-perimeter) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0301-remove-invalid-parentheses) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
