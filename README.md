@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0041-first-missing-positive) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0209-minimum-size-subarray-sum) |
