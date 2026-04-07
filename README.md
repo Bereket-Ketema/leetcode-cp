@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0517-super-washing-machines) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0435-non-overlapping-intervals) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
 | [0629-k-inverse-pairs-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0629-k-inverse-pairs-array) |
