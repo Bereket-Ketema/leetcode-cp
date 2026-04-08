@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0609-find-duplicate-file-in-system) |
 | [0639-decode-ways-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0639-decode-ways-ii) |
 | [0657-robot-return-to-origin](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0664-strange-printer) |
 | [0709-to-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0763-partition-labels) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0629-k-inverse-pairs-array) |
 | [0639-decode-ways-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0639-decode-ways-ii) |
+| [0664-strange-printer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0664-strange-printer) |
 | [0818-race-car](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0818-race-car) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
