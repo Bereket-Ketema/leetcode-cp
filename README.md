@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
 | [0629-k-inverse-pairs-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0629-k-inverse-pairs-array) |
