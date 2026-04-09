@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0460-lfu-cache) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0460-lfu-cache) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0460-lfu-cache) |
 ## Memoization
 |  |
 | ------- |
