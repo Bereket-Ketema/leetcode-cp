@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0409-longest-palindrome) |
