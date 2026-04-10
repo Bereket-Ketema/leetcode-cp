@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0736-parse-lisp-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0748-shortest-completing-word) |
+| [0761-special-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0791-custom-sort-string) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0726-number-of-atoms) |
+| [0761-special-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0761-special-binary-string) |
 | [0791-custom-sort-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
