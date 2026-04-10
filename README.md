@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
+| [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0860-lemonade-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0824-goat-latin) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0830-positions-of-large-groups) |
+| [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0856-score-of-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0128-longest-consecutive-sequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
+| [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0749-contain-virus](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
+| [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1006,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
+| [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Hash Function
 |  |
