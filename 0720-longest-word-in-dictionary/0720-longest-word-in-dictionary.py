@@ -1,0 +1,13 @@
+class Solution:
+    def longestWord(self, words):
+        words.sort()
+        valid = set([""])
+        longest = ""
+        
+        for word in words:
+            if word[:-1] in valid:
+                valid.add(word)
+                if len(word) > len(longest):
+                    longest = word
+        
+        return longest
