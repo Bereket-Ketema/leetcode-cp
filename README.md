@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0639-decode-ways-ii) |
 | [0657-robot-return-to-origin](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0664-strange-printer) |
+| [0686-repeated-string-match](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
 | [0709-to-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0709-to-lower-case) |
 | [0726-number-of-atoms](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0726-number-of-atoms) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0796-rotate-string) |
 ## Trie
 |  |
