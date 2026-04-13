@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0730-count-different-palindromic-subsequences) |
 | [0736-parse-lisp-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0736-parse-lisp-expression) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0664-strange-printer) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0730-count-different-palindromic-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0818-race-car](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0818-race-car) |
