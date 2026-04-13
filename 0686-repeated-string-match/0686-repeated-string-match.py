@@ -1,0 +1,9 @@
+class Solution:
+    def repeatedStringMatch(self, a: str, b: str) -> int:
+        repeat = (len(b) // len(a)) + 2
+        s = a * repeat
+        
+        for i in range(1, repeat + 1):
+            if b in a * i:
+                return i
+        return -1
