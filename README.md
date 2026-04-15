@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0704-binary-search) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0722-remove-comments) |
