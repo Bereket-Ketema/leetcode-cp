@@ -1,9 +1,6 @@
 class Solution:
     def singleNumber(self, nums):
-        ones = twos = 0
-        
-        for num in nums:
-            ones = (ones ^ num) & ~twos
-            twos = (twos ^ num) & ~ones
-        
-        return ones
+        freq = Counter(nums)
+        for k, v in freq.items():
+            if v == 1:
+                return k
