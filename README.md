@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0219-contains-duplicate-ii) |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0206-reverse-linked-list) |
