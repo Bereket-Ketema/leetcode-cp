@@ -833,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0304-range-sum-query-2d-immutable) |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
