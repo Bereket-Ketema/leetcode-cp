@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0312-burst-balloons) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -1277,4 +1279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0207-course-schedule) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
