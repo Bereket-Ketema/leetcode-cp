@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0275-h-index-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0212-word-search-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0407-trapping-rain-water-ii) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0278-first-bad-version) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
