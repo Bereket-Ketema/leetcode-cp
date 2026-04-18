@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0263-ugly-number) |
@@ -1291,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 ## Rolling Hash
