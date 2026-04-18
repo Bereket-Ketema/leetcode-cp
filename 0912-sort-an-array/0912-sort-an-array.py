@@ -1,13 +1,14 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
 
-        def divide(left, right, arr):
-            if left == right:
-                return [arr[left]]
+        def divide(arr):
+            if len(arr) == 1:
+                return arr
             
-            mid = left + (right - left) // 2
-            left_side = divide(left, mid, arr)
-            right_side = divide(mid + 1, right, arr)
+            mid = len(arr) // 2
+
+            left_side = divide(arr[:mid])
+            right_side = divide(arr[mid:])
 
             return combine(left_side, right_side)
         
@@ -27,5 +28,5 @@ class Solution:
 
             return ans
         
-        return divide(0, len(nums) - 1, nums)
+        return divide(nums)
 
