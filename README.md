@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0268-missing-number) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0290-word-pattern) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0445-add-two-numbers-ii) |
