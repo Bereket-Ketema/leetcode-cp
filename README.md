@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0224-basic-calculator) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0212-word-search-ii) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0443-string-compression) |
