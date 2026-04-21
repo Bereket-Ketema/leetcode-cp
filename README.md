@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0410-split-array-largest-sum) |
@@ -1254,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0357-count-numbers-with-unique-digits) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
