@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0415-add-strings) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0441-arranging-coins) |
