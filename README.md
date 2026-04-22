@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0466-count-the-repetitions) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0460-lfu-cache) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0745-prefix-and-suffix-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0745-prefix-and-suffix-search) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
@@ -1208,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0463-island-perimeter) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
@@ -1237,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
@@ -1257,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0310-minimum-height-trees) |
 | [0407-trapping-rain-water-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0463-island-perimeter) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1323,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Brainteaser
