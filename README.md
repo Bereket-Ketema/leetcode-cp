@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0567-permutation-in-string) |
 | [0591-tag-validator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0591-tag-validator) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0609-find-duplicate-file-in-system) |
 | [0639-decode-ways-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0639-decode-ways-ii) |
 | [0657-robot-return-to-origin](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0657-robot-return-to-origin) |
@@ -1203,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0513-find-bottom-left-tree-value) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
@@ -1238,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
@@ -1269,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
