@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0564-find-the-closest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
@@ -1429,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0593-valid-square) |
 ## Rolling Hash
 |  |
 | ------- |
