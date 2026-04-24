@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0189-rotate-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0187-repeated-dna-sequences) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0229-majority-element-ii) |
