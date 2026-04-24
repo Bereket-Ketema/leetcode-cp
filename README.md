@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0343-integer-break) |
@@ -1391,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0319-bulb-switcher) |
 ## Interactive
 |  |
 | ------- |
