@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0212-word-search-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0240-search-a-2d-matrix-ii) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
@@ -1231,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -1296,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0301-remove-invalid-parentheses) |
