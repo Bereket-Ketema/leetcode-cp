@@ -770,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0435-non-overlapping-intervals) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0413-arithmetic-slices) |
@@ -1453,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0638-shopping-offers) |
