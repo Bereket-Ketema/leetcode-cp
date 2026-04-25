@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0470-implement-rand10-using-rand7) |
 | [0479-largest-palindrome-product](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0483-smallest-good-base) |
 | [0504-base-7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0504-base-7) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0384-shuffle-an-array) |
+| [0470-implement-rand10-using-rand7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0470-implement-rand10-using-rand7) |
 | [0519-random-flip-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0519-random-flip-matrix) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 ## Union-Find
@@ -1527,4 +1529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0519-random-flip-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0519-random-flip-matrix) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
