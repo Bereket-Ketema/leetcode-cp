@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0638-shopping-offers) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0466-count-the-repetitions) |
+| [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
@@ -1386,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
@@ -1397,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
