@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0371-sum-of-two-integers) |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0332-reconstruct-itinerary) |
 | [0341-flatten-nested-list-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0385-mini-parser) |
 | [0419-battleships-in-a-board](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -1335,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
