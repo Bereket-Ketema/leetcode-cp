@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0466-count-the-repetitions) |
 | [0468-validate-ip-address](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0468-validate-ip-address) |
+| [0474-ones-and-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0504-base-7) |
@@ -1100,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0466-count-the-repetitions) |
 | [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
