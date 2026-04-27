@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0187-repeated-dna-sequences) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0225-implement-stack-using-queues) |
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0206-reverse-linked-list) |
@@ -1544,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0460-lfu-cache) |
