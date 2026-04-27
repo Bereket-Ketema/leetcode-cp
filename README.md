@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0165-compare-version-numbers) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
