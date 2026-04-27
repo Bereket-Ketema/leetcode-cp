@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
+| [0667-beautiful-arrangement-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0667-beautiful-arrangement-ii) |
 | [0670-maximum-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0670-maximum-swap) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0661-image-smoother) |
+| [0667-beautiful-arrangement-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0667-beautiful-arrangement-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0682-baseball-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0682-baseball-game) |
