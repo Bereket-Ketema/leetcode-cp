@@ -1154,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0688-knight-probability-in-chessboard) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
