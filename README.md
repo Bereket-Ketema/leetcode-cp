@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
+| [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0791-custom-sort-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0853-car-fleet) |
+| [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0763-partition-labels) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
+| [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0917-reverse-only-letters) |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0860-lemonade-change) |
+| [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
