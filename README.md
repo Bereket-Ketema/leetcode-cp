@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0854-k-similar-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
@@ -1338,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1385,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0814-binary-tree-pruning) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1417,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1457,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0854-k-similar-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Hash Function
 |  |
