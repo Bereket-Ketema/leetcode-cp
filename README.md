@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
+| [0875-koko-eating-bananas](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
