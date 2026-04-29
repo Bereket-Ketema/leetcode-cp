@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
+| [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0989-add-to-array-form-of-integer) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0922-sort-array-by-parity-ii) |
+| [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Bucket Sort
