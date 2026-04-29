@@ -991,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0736-parse-lisp-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0736-parse-lisp-expression) |
+| [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1210,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0818-race-car](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0818-race-car) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Sliding Window
@@ -1367,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1454,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -1618,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Indexed Tree
 |  |
 | ------- |
