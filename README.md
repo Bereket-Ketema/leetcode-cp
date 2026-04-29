@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0905-sort-array-by-parity) |
+| [0909-snakes-and-ladders](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
+| [0909-snakes-and-ladders](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0909-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
@@ -1506,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0854-k-similar-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0909-snakes-and-ladders](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0909-snakes-and-ladders) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 ## Hash Function
