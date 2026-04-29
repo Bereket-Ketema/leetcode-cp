@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0115-distinct-subsequences) |
@@ -1395,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -1542,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0131-palindrome-partitioning) |
