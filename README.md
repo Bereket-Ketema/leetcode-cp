@@ -1595,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0601-human-traffic-of-stadium) |
 | [0619-biggest-single-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0620-not-boring-movies) |
 ## Binary Search Tree
 |  |
 | ------- |
