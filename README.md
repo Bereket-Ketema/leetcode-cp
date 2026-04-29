@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0880-decoded-string-at-index) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
 | [0917-reverse-only-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
@@ -1263,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0880-decoded-string-at-index) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2375-construct-smallest-number-from-di-string) |
