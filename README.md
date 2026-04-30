@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1480-running-sum-of-1d-array) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0909-snakes-and-ladders) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
 ## String
