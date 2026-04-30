@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
