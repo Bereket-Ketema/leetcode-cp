@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-least-operators-to-express-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0964-least-operators-to-express-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0989-add-to-array-form-of-integer) |
+| [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0992-subarrays-with-k-different-integers) |
+| [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-escape-a-large-maze](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1036-escape-a-large-maze) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0895-maximum-frequency-stack) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0992-subarrays-with-k-different-integers) |
+| [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
 | [1036-escape-a-large-maze](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1036-escape-a-large-maze) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0868-binary-gap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0868-binary-gap) |
+| [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
@@ -1282,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0918-maximum-sum-circular-subarray) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0964-least-operators-to-express-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0964-least-operators-to-express-number) |
+| [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
@@ -1628,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0797-all-paths-from-source-to-target) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
+| [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
@@ -1642,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
+| [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Database
 |  |
