@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
 | [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
