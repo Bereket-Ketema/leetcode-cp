@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-escape-a-large-maze](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1036-escape-a-large-maze) |
+| [1095-find-in-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1654,6 +1656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1095-find-in-mountain-array) |
 ## Graph Theory
 |  |
 | ------- |
