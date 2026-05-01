@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0803-bricks-falling-when-hit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0811-subdomain-visit-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0811-subdomain-visit-count) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
+| [0803-bricks-falling-when-hit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0785-is-graph-bipartite) |
+| [0803-bricks-falling-when-hit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0803-bricks-falling-when-hit) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 ## Greedy
 |  |
