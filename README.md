@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0848-shifting-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0848-shifting-letters) |
+| [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
 | [0853-car-fleet](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
@@ -1367,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
+| [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -1725,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
+| [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Merge Sort
@@ -1754,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0391-perfect-rectangle) |
+| [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
 ## Radix Sort
 |  |
 | ------- |
