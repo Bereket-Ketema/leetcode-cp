@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0820-short-encoding-of-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
+| [0827-making-a-large-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0848-shifting-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0848-shifting-letters) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0803-bricks-falling-when-hit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0827-making-a-large-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0909-snakes-and-ladders) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0785-is-graph-bipartite) |
 | [0803-bricks-falling-when-hit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0803-bricks-falling-when-hit) |
+| [0827-making-a-large-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 ## Greedy
 |  |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0814-binary-tree-pruning) |
+| [0827-making-a-large-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -1561,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0854-k-similar-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
