@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0803-bricks-falling-when-hit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0767-reorganize-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0791-custom-sort-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0853-car-fleet) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0875-koko-eating-bananas) |
@@ -967,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -1005,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0763-partition-labels) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
