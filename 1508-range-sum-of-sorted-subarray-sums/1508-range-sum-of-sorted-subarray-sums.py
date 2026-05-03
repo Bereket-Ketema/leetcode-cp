@@ -1,0 +1,13 @@
+class Solution:
+    def rangeSum(self, nums, n, left, right):
+        MOD = 10**9+7
+        arr = []
+        
+        for i in range(n):
+            s = 0
+            for j in range(i,n):
+                s += nums[j]
+                arr.append(s)
+        
+        arr.sort()
+        return sum(arr[left-1:right]) % MOD
