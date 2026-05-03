@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1478-allocate-mailboxes) |
 | [1480-running-sum-of-1d-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1480-running-sum-of-1d-array) |
 | [1499-max-value-of-equation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1499-max-value-of-equation) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1478-allocate-mailboxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1478-allocate-mailboxes) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1539-kth-missing-positive-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1552-magnetic-force-between-two-balls) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-get-the-maximum-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1537-get-the-maximum-score) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -1100,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1480-running-sum-of-1d-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
