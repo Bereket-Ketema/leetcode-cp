@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0407-trapping-rain-water-ii) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0412-fizz-buzz) |
@@ -1274,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0785-is-graph-bipartite) |
@@ -1656,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0385-mini-parser) |
+| [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -1744,6 +1748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0433-minimum-genetic-mutation) |
@@ -1882,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0797-all-paths-from-source-to-target) |
@@ -2013,6 +2019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Minimum Spanning Tree
 |  |
