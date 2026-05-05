@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
+| [0812-largest-triangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0812-largest-triangle-area) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
 | [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0964-least-operators-to-express-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0964-least-operators-to-express-number) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0811-subdomain-visit-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0811-subdomain-visit-count) |
+| [0812-largest-triangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0812-largest-triangle-area) |
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0820-short-encoding-of-words) |
@@ -1923,6 +1925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0593-valid-square) |
+| [0812-largest-triangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0812-largest-triangle-area) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 ## Rolling Hash
