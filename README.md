@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0498-diagonal-traverse) |
@@ -1401,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0466-count-the-repetitions) |
 | [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0514-freedom-trail) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0542-01-matrix) |
@@ -1817,6 +1819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
