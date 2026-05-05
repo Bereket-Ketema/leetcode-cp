@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
+| [1037-valid-boomerang](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1037-valid-boomerang) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1036-escape-a-large-maze](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1036-escape-a-large-maze) |
+| [1037-valid-boomerang](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1037-valid-boomerang) |
 | [1095-find-in-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
@@ -1936,6 +1938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0892-surface-area-of-3d-shapes) |
+| [1037-valid-boomerang](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1037-valid-boomerang) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 ## Rolling Hash
