@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0504-base-7) |
 | [0519-random-flip-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0593-valid-square) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0551-student-attendance-record-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0567-permutation-in-string) |
 | [0591-tag-validator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0591-tag-validator) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
