@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1037-valid-boomerang](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1037-valid-boomerang) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -1939,6 +1941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0892-surface-area-of-3d-shapes) |
 | [1037-valid-boomerang](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1037-valid-boomerang) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1266-minimum-time-visiting-all-points) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 ## Rolling Hash
