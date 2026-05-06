@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0704-binary-search) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
+| [0729-my-calendar-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0729-my-calendar-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0745-prefix-and-suffix-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0745-prefix-and-suffix-search) |
 | [0895-maximum-frequency-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0895-maximum-frequency-stack) |
@@ -1574,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0729-my-calendar-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
 | [0895-maximum-frequency-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0895-maximum-frequency-stack) |
@@ -1980,6 +1984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
