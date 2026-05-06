@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0611-valid-triangle-number) |
+| [0622-design-circular-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0918-maximum-sum-circular-subarray) |
@@ -1262,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
@@ -1603,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
