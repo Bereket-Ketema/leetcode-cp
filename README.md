@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0820-short-encoding-of-words) |
+| [0822-card-flipping-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0822-card-flipping-game) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0827-making-a-large-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0835-image-overlap) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0820-short-encoding-of-words) |
+| [0822-card-flipping-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0822-card-flipping-game) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0854-k-similar-strings) |
