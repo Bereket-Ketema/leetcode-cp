@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0748-shortest-completing-word) |
 | [0749-contain-virus](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0749-contain-virus) |
 | [0752-open-the-lock](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0752-open-the-lock) |
+| [0764-largest-plus-sign](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0764-largest-plus-sign) |
 | [0766-toeplitz-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
@@ -1441,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0730-count-different-palindromic-subsequences) |
+| [0764-largest-plus-sign](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0764-largest-plus-sign) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0799-champagne-tower) |
