@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0811-subdomain-visit-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0811-subdomain-visit-count) |
 | [0812-largest-triangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0812-largest-triangle-area) |
+| [0813-largest-sum-of-averages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0815-bus-routes) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0820-short-encoding-of-words) |
@@ -1172,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
+| [0813-largest-sum-of-averages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -1449,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0799-champagne-tower) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
+| [0813-largest-sum-of-averages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0813-largest-sum-of-averages) |
 | [0818-race-car](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0818-race-car) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0834-sum-of-distances-in-tree) |
