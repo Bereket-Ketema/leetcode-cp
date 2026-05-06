@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0661-image-smoother) |
 | [0667-beautiful-arrangement-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0667-beautiful-arrangement-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0682-baseball-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0682-baseball-game) |
@@ -1428,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0664-strange-printer) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0688-knight-probability-in-chessboard) |
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
@@ -1963,6 +1965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
@@ -1973,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
