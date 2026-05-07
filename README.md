@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [0972-equal-rational-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0972-equal-rational-numbers) |
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1044-longest-duplicate-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1044-longest-duplicate-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1092-shortest-common-supersequence) |
@@ -1673,6 +1674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -1734,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1036-escape-a-large-maze](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1036-escape-a-large-maze) |
 | [1192-critical-connections-in-a-network](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -1779,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
