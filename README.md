@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1187-make-array-strictly-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1187-make-array-strictly-increasing) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1224-maximum-equal-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1224-maximum-equal-frequency) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1224-maximum-equal-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1224-maximum-equal-frequency) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
