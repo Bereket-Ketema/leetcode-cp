@@ -1958,6 +1958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0627-swap-sex-of-employees) |
 | [1084-sales-analysis-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1084-sales-analysis-iii) |
+| [1148-article-views-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Binary Search Tree
 |  |
