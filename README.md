@@ -1096,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -2015,6 +2016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0834-sum-of-distances-in-tree) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1192-critical-connections-in-a-network](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -2153,6 +2155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Minimum Spanning Tree
 |  |
