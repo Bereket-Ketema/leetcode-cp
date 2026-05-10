@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1402-reducing-dishes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1402-reducing-dishes) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1425-constrained-subsequence-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1425-constrained-subsequence-sum) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1370-increasing-decreasing-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-increasing-decreasing-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1370-increasing-decreasing-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
