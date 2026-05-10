@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0941-valid-mountain-array) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0962-maximum-width-ramp](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0917-reverse-only-letters) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0972-equal-rational-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0972-equal-rational-numbers) |
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0890-find-and-replace-pattern) |
 | [0895-maximum-frequency-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0895-maximum-frequency-stack) |
 | [0923-3sum-with-multiplicity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0923-3sum-with-multiplicity) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
