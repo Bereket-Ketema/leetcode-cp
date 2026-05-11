@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0917-reverse-only-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0917-reverse-only-letters) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0972-equal-rational-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0972-equal-rational-numbers) |
@@ -1550,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0918-maximum-sum-circular-subarray) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
 | [0964-least-operators-to-express-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0964-least-operators-to-express-number) |
 | [0968-binary-tree-cameras](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0968-binary-tree-cameras) |
 | [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
