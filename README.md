@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1471-the-k-strongest-values-in-an-array) |
