@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1125-smallest-sufficient-team](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1125-smallest-sufficient-team) |
+| [1157-online-majority-element-in-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1157-online-majority-element-in-subarray) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1184-distance-between-bus-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1184-distance-between-bus-stops) |
@@ -1043,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1044-longest-duplicate-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1044-longest-duplicate-substring) |
 | [1095-find-in-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1095-find-in-mountain-array) |
+| [1157-online-majority-element-in-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1157-online-majority-element-in-subarray) |
 | [1187-make-array-strictly-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1187-make-array-strictly-increasing) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1032-stream-of-characters) |
+| [1157-online-majority-element-in-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1157-online-majority-element-in-subarray) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2671-frequency-tracker) |
@@ -2129,6 +2132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1157-online-majority-element-in-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1157-online-majority-element-in-subarray) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
@@ -2144,6 +2148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
+| [1157-online-majority-element-in-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1157-online-majority-element-in-subarray) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
