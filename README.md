@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1313-decompress-run-length-encoded-list) |
