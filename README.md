@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1816-truncate-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1816-truncate-sentence) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
