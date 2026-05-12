@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
