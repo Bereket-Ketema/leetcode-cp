@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2390-removing-stars-from-a-string) |
