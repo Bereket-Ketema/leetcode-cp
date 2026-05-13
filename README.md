@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1416-restore-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1416-restore-the-array) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
