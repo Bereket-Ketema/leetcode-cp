@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0479-largest-palindrome-product) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2427-number-of-common-factors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2427-number-of-common-factors) |
 ## Number Theory
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
