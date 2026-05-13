@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
+| [1629-slowest-key](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1629-slowest-key) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1629-slowest-key](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1629-slowest-key) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1768-merge-strings-alternately) |
