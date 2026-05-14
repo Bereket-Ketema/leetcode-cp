@@ -1452,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
+| [0685-redundant-connection-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0785-is-graph-bipartite) |
@@ -1897,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0662-maximum-width-of-binary-tree) |
+| [0685-redundant-connection-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
@@ -2003,6 +2005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0662-maximum-width-of-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0685-redundant-connection-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0733-flood-fill) |
@@ -2155,6 +2158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
+| [0685-redundant-connection-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
