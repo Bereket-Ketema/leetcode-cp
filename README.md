@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0332-reconstruct-itinerary) |
@@ -1220,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0321-create-maximum-number) |
 | [0443-string-compression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0466-count-the-repetitions) |
@@ -1486,6 +1488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0397-integer-replacement) |
@@ -1705,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
@@ -1754,6 +1758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
