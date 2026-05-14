@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0119-pascals-triangle-ii) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0200-number-of-islands) |
@@ -1529,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0119-pascals-triangle-ii) |
@@ -1668,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1727,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
