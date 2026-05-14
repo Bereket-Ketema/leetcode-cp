@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1032-stream-of-characters) |
 | [1044-longest-duplicate-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1044-longest-duplicate-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1078-occurrences-after-bigram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1078-occurrences-after-bigram) |
 | [1092-shortest-common-supersequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1106-parsing-a-boolean-expression) |
