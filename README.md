@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
 | [0667-beautiful-arrangement-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0667-beautiful-arrangement-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0670-maximum-swap) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0704-binary-search) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 | [0729-my-calendar-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0729-my-calendar-i) |
