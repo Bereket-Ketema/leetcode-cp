@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0670-maximum-swap) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 | [0770-basic-calculator-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0770-basic-calculator-iv) |
+| [0780-reaching-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0789-escape-the-ghosts](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0789-escape-the-ghosts) |
