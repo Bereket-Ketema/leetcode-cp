@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
+| [0906-super-palindromes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0906-super-palindromes) |
 | [0908-smallest-range-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0927-three-equal-parts](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0927-three-equal-parts) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0479-largest-palindrome-product) |
+| [0906-super-palindromes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0906-super-palindromes) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0890-find-and-replace-pattern) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0906-super-palindromes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0906-super-palindromes) |
 | [0917-reverse-only-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0917-reverse-only-letters) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
