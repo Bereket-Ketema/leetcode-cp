@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0956-tallest-billboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0956-tallest-billboard) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0962-maximum-width-ramp](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0972-equal-rational-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0972-equal-rational-numbers) |
 | [1002-find-common-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1021-remove-outermost-parentheses) |
@@ -1652,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0956-tallest-billboard) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0964-least-operators-to-express-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0964-least-operators-to-express-number) |
 | [0968-binary-tree-cameras](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0968-binary-tree-cameras) |
 | [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
