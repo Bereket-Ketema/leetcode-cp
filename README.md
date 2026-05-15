@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
 | [0908-smallest-range-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0927-three-equal-parts](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0927-three-equal-parts) |
 | [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0964-least-operators-to-express-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0964-least-operators-to-express-number) |
 | [0972-equal-rational-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0972-equal-rational-numbers) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0923-3sum-with-multiplicity) |
+| [0927-three-equal-parts](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0927-three-equal-parts) |
 | [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0941-valid-mountain-array) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
