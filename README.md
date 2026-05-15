@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0670-maximum-swap) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
+| [0770-basic-calculator-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0770-basic-calculator-iv) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0789-escape-the-ghosts](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0789-escape-the-ghosts) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0796-rotate-string) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0791-custom-sort-string) |
@@ -1371,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0736-parse-lisp-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0736-parse-lisp-expression) |
+| [0770-basic-calculator-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0770-basic-calculator-iv) |
 | [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [1106-parsing-a-boolean-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1106-parsing-a-boolean-expression) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1731,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0735-asteroid-collision) |
 | [0736-parse-lisp-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0736-parse-lisp-expression) |
 | [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
+| [0770-basic-calculator-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0770-basic-calculator-iv) |
 | [0853-car-fleet](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0880-decoded-string-at-index) |
