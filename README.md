@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0956-tallest-billboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0923-3sum-with-multiplicity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0923-3sum-with-multiplicity) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
