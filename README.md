@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0529-minesweeper) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0567-permutation-in-string) |
@@ -1370,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
