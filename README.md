@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0809-expressive-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0811-subdomain-visit-count) |
 | [0812-largest-triangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0813-largest-sum-of-averages) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0806-number-of-lines-to-write-string) |
+| [0809-expressive-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0820-short-encoding-of-words) |
@@ -1280,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0809-expressive-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0809-expressive-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0838-push-dominoes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0838-push-dominoes) |
 | [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
