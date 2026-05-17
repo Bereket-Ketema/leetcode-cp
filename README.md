@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1399-count-largest-group) |
