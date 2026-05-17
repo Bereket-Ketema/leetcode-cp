@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
+| [1025-divisor-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1103-distribute-candies-to-people) |
@@ -1590,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
+| [1025-divisor-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Dynamic Programming
@@ -1689,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0968-binary-tree-cameras) |
 | [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1025-divisor-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1092-shortest-common-supersequence) |
 | [1125-smallest-sufficient-team](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1125-smallest-sufficient-team) |
 | [1137-n-th-tribonacci-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1137-n-th-tribonacci-number) |
@@ -2222,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1025-divisor-game) |
 ## Interactive
 |  |
 | ------- |
