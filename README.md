@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -1781,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
@@ -1975,6 +1977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0417-pacific-atlantic-water-flow) |
