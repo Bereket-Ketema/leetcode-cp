@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
 | [0554-brick-wall](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0554-brick-wall) |
+| [0561-array-partition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0594-longest-harmonious-subsequence) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0517-super-washing-machines) |
+| [0561-array-partition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1598,6 +1601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
