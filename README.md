@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
 | [0554-brick-wall](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0554-brick-wall) |
+| [0575-distribute-candies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0609-find-duplicate-file-in-system) |
