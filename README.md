@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
+| [0788-rotated-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0789-escape-the-ghosts) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
@@ -1679,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0730-count-different-palindromic-subsequences) |
 | [0764-largest-plus-sign](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0764-largest-plus-sign) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0799-champagne-tower) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
