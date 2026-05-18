@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
 | [0554-brick-wall](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0554-brick-wall) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0658-find-k-closest-elements) |
