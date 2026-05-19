@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1844-replace-all-digits-with-characters) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1796-second-largest-digit-in-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
