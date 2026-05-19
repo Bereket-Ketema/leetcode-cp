@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1844-replace-all-digits-with-characters) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
