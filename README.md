@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [1629-slowest-key](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1629-slowest-key) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
 ## String
@@ -2321,6 +2323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 ## Eulerian Circuit
@@ -2432,6 +2435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0310-minimum-height-trees) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
 ## Iterator
 |  |
 | ------- |
