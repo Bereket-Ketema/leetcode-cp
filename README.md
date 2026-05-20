@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1720-decode-xored-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1732-find-the-highest-altitude) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1720-decode-xored-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1720-decode-xored-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1413,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1032-stream-of-characters) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1316-distinct-echo-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1316-distinct-echo-substrings) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
