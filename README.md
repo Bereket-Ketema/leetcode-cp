@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1518-water-bottles) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
+| [1622-fancy-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1622-fancy-sequence) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1250-check-if-it-is-a-good-array) |
+| [1622-fancy-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1622-fancy-sequence) |
 | [2427-number-of-common-factors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1545,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1032-stream-of-characters) |
 | [1157-online-majority-element-in-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1157-online-majority-element-in-subarray) |
+| [1622-fancy-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1622-fancy-sequence) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2671-frequency-tracker) |
@@ -2384,6 +2387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-rectangle-area-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0850-rectangle-area-ii) |
 | [1157-online-majority-element-in-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1157-online-majority-element-in-subarray) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1622-fancy-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1622-fancy-sequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Merge Sort
