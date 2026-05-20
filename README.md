@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0812-largest-triangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0812-largest-triangle-area) |
+| [0829-consecutive-numbers-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0836-rectangle-overlap) |
 | [0878-nth-magical-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0883-projection-area-of-3d-shapes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0479-largest-palindrome-product) |
+| [0829-consecutive-numbers-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0829-consecutive-numbers-sum) |
 | [0906-super-palindromes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0906-super-palindromes) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
