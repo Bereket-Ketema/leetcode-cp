@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0812-largest-triangle-area](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0836-rectangle-overlap) |
+| [0878-nth-magical-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0899-orderly-queue) |
@@ -1178,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0825-friends-of-appropriate-ages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0875-koko-eating-bananas) |
+| [0878-nth-magical-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0878-nth-magical-number) |
 | [0888-fair-candy-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0888-fair-candy-swap) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
