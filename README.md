@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-super-palindromes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0906-super-palindromes) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2427-number-of-common-factors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2427-number-of-common-factors) |
 ## Number Theory
@@ -2391,6 +2392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 ## Eulerian Circuit
 |  |
