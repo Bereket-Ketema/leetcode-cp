@@ -820,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1745-palindrome-partitioning-iv) |
 | [1768-merge-strings-alternately](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1768-merge-strings-alternately) |
+| [1771-maximize-palindrome-length-from-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1773-count-items-matching-a-rule](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1796-second-largest-digit-in-a-string) |
@@ -1826,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1745-palindrome-partitioning-iv) |
+| [1771-maximize-palindrome-length-from-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Sliding Window
 |  |
