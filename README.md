@@ -803,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1278-palindrome-partitioning-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1316-distinct-echo-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1316-distinct-echo-substrings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1819,6 +1820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-count-vowels-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1220-count-vowels-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1278-palindrome-partitioning-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1278-palindrome-partitioning-iii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
