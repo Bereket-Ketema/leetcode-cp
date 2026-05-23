@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0875-koko-eating-bananas) |
 | [0879-profitable-schemes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0879-profitable-schemes) |
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1046-last-stone-weight) |
@@ -1657,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0860-lemonade-change) |
 | [0870-advantage-shuffle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
 | [0936-stamping-the-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0936-stamping-the-sequence) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
@@ -1783,6 +1786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0834-sum-of-distances-in-tree) |
 | [0838-push-dominoes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0838-push-dominoes) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0879-profitable-schemes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0879-profitable-schemes) |
 | [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
