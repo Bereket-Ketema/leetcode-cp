@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0928-minimize-malware-spread-ii) |
 | [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0941-valid-mountain-array) |
+| [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0956-tallest-billboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0956-tallest-billboard) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0936-stamping-the-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
+| [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1275,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0868-binary-gap) |
+| [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0980-unique-paths-iii) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -1798,6 +1801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
+| [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0964-least-operators-to-express-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0964-least-operators-to-express-number) |
@@ -2313,6 +2317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
 | [1125-smallest-sufficient-team](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
