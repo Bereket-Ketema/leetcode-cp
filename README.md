@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1301-number-of-paths-with-max-score) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -2254,6 +2256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
