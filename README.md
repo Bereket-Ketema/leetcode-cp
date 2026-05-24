@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0941-valid-mountain-array) |
 | [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0944-delete-columns-to-make-sorted) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0956-tallest-billboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0956-tallest-billboard) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0944-delete-columns-to-make-sorted) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0953-verifying-an-alien-dictionary) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0960-delete-columns-to-make-sorted-iii) |
