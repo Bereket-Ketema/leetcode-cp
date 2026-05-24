@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1032-stream-of-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1032-stream-of-characters) |
 | [1036-escape-a-large-maze](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1036-escape-a-large-maze) |
 | [1037-valid-boomerang](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1037-valid-boomerang) |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0996-number-of-squareful-arrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1125-smallest-sufficient-team](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1125-smallest-sufficient-team) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
