@@ -2082,6 +2082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -2156,6 +2157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0897-increasing-order-search-tree) |
 | [0924-minimize-malware-spread](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0928-minimize-malware-spread-ii) |
+| [0938-range-sum-of-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -2209,6 +2211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -2398,6 +2401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Brainteaser
 |  |
