@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0928-minimize-malware-spread-ii) |
 | [0932-beautiful-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0942-di-string-match) |
 | [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0944-delete-columns-to-make-sorted) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0936-stamping-the-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0940-distinct-subsequences-ii) |
+| [0942-di-string-match](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0942-di-string-match) |
 | [0943-find-the-shortest-superstring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0944-delete-columns-to-make-sorted) |
 | [0949-largest-time-for-given-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0949-largest-time-for-given-digits) |
@@ -1406,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0923-3sum-with-multiplicity) |
+| [0942-di-string-match](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0942-di-string-match) |
 | [0962-maximum-width-ramp](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1147-longest-chunked-palindrome-decomposition) |
@@ -1689,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0881-boats-to-save-people) |
 | [0936-stamping-the-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0936-stamping-the-sequence) |
+| [0942-di-string-match](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0942-di-string-match) |
 | [0969-pancake-sorting](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1005-maximize-sum-of-array-after-k-negations) |
