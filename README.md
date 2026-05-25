@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0537-complex-number-multiplication) |
+| [0553-optimal-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0554-brick-wall) |
 | [0561-array-partition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0575-distribute-candies) |
@@ -1795,6 +1797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0629-k-inverse-pairs-array) |
