@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1756,6 +1757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0119-pascals-triangle-ii) |
@@ -2059,6 +2061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -2201,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -2426,6 +2430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
