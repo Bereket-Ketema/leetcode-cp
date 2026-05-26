@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1266-minimum-time-visiting-all-points) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1260-shift-2d-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0999-available-captures-for-rook) |
 | [1103-distribute-candies-to-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1224-maximum-equal-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1224-maximum-equal-frequency) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
