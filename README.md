@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1323-maximum-69-number) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1360-number-of-days-between-two-dates](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1399-count-largest-group) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1332-remove-palindromic-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1332-remove-palindromic-subsequences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1360-number-of-days-between-two-dates](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1370-increasing-decreasing-string) |
 | [1397-find-all-good-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1397-find-all-good-strings) |
 | [1408-string-matching-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1408-string-matching-in-an-array) |
