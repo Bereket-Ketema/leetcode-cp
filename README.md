@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1313-decompress-run-length-encoded-list) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1331-rank-transform-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1187-make-array-strictly-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1187-make-array-strictly-increasing) |
+| [1331-rank-transform-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
