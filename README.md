@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0554-brick-wall) |
 | [0561-array-partition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0594-longest-harmonious-subsequence) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0661-image-smoother) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0733-flood-fill) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0735-asteroid-collision) |
