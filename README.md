@@ -1951,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0591-tag-validator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0591-tag-validator) |
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0678-valid-parenthesis-string) |
@@ -2109,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -2181,6 +2183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
