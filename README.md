@@ -1121,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1394,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
@@ -1568,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0215-kth-largest-element-in-an-array) |
@@ -2056,6 +2059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
@@ -2580,6 +2584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
