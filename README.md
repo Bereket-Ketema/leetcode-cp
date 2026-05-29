@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1425-constrained-subsequence-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1436-destination-city) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
