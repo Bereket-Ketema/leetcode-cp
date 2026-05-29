@@ -854,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1416-restore-the-array) |
 | [1436-destination-city](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1446-consecutive-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
@@ -1448,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1537-get-the-maximum-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1537-get-the-maximum-score) |
@@ -1494,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0796-rotate-string) |
 | [1397-find-all-good-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1397-find-all-good-strings) |
 | [1408-string-matching-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1408-string-matching-in-an-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Trie
 |  |
 | ------- |
