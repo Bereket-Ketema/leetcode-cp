@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1185-day-of-the-week) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1266-minimum-time-visiting-all-points) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1184-distance-between-bus-stops) |
 | [1187-make-array-strictly-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1187-make-array-strictly-increasing) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1224-maximum-equal-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1224-maximum-equal-frequency) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1250-check-if-it-is-a-good-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -1722,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1323-maximum-69-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1323-maximum-69-number) |
