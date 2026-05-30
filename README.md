@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2239-find-closest-number-to-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
@@ -1233,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -1764,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Counting Sort
