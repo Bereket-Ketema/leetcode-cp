@@ -879,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2103-rings-and-rods](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2103-rings-and-rods) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2103-rings-and-rods](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2103-rings-and-rods) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
