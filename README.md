@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0498-diagonal-traverse) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0566-reshape-the-matrix) |
