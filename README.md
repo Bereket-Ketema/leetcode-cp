@@ -1528,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0720-longest-word-in-dictionary) |
@@ -2216,6 +2217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0404-sum-of-left-leaves) |
