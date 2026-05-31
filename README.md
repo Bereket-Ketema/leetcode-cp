@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0412-fizz-buzz) |
@@ -1733,6 +1734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0435-non-overlapping-intervals) |
@@ -1996,6 +1998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
@@ -2049,6 +2052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0654-maximum-binary-tree) |
