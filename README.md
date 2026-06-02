@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1184-distance-between-bus-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1184-distance-between-bus-stops) |
 | [1187-make-array-strictly-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1187-make-array-strictly-increasing) |
+| [1200-minimum-absolute-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1200-minimum-absolute-difference) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1224-maximum-equal-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1224-maximum-equal-frequency) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1187-make-array-strictly-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1187-make-array-strictly-increasing) |
+| [1200-minimum-absolute-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
