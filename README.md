@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1108-defanging-an-ip-address) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1154-day-of-the-year](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1178-number-of-valid-words-for-each-puzzle) |
