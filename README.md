@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1247-minimum-swaps-to-make-strings-equal) |
