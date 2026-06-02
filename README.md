@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0347-top-k-frequent-elements) |
@@ -1763,6 +1764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0402-remove-k-digits) |
