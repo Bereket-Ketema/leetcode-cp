@@ -2230,6 +2230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -2318,6 +2319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1036-escape-a-large-maze](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1036-escape-a-large-maze) |
 | [1192-critical-connections-in-a-network](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1192-critical-connections-in-a-network) |
@@ -2385,6 +2387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
