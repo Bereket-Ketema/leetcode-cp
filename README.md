@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0470-implement-rand10-using-rand7) |
+| [0477-total-hamming-distance](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0483-smallest-good-base) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0494-target-sum) |
@@ -1377,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0645-set-mismatch) |
