@@ -2237,6 +2237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0690-employee-importance) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0814-binary-tree-pruning) |
@@ -2401,6 +2402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0814-binary-tree-pruning) |
@@ -2624,6 +2626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0897-increasing-order-search-tree) |
