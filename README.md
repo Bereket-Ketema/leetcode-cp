@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
 | [0720-longest-word-in-dictionary](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0721-accounts-merge) |
@@ -1718,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0732-my-calendar-iii) |
@@ -2176,6 +2179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2487-remove-nodes-from-linked-list) |
@@ -2504,6 +2508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0706-design-hashmap) |
 | [1044-longest-duplicate-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1316-distinct-echo-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1316-distinct-echo-substrings) |
