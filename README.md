@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-check-array-formation-through-concatenation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1640-check-array-formation-through-concatenation) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1646-get-maximum-in-generated-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
+| [1652-defuse-the-bomb](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1652-defuse-the-bomb) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1687-delivering-boxes-from-storage-to-ports) |
@@ -2030,6 +2031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1499-max-value-of-equation) |
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
+| [1652-defuse-the-bomb](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1652-defuse-the-bomb) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
