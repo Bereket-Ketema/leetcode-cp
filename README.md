@@ -899,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1507-reformat-date) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1496-path-crossing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1640-check-array-formation-through-concatenation) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
@@ -1282,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
@@ -1835,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1402-reducing-dishes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1537-get-the-maximum-score) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
