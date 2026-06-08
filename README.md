@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0670-maximum-swap) |
@@ -1955,6 +1956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0638-shopping-offers) |
 | [0639-decode-ways-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0678-valid-parenthesis-string) |
