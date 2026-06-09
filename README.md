@@ -1015,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
@@ -1512,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0148-sort-list) |
@@ -2213,6 +2215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
