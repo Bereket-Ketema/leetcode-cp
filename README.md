@@ -926,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1796-second-largest-digit-in-a-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1844-replace-all-digits-with-characters) |
@@ -1155,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1796-second-largest-digit-in-a-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
