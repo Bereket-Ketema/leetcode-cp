@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1773-count-items-matching-a-rule) |
 | [1776-car-fleet-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1776-car-fleet-ii) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
