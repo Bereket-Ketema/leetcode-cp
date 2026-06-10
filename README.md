@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1776-car-fleet-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1776-car-fleet-ii) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1844-replace-all-digits-with-characters) |
