@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2578-split-with-minimum-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2578-split-with-minimum-sum) |
+| [2582-pass-the-pillow](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2553-separate-the-digits-in-an-array) |
+| [2582-pass-the-pillow](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2582-pass-the-pillow) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3582-generate-tag-for-video-caption) |
 ## Combinatorics
