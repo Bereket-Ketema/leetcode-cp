@@ -1469,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1720-decode-xored-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1720-decode-xored-array) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2595-number-of-even-and-odd-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Heap (Priority Queue)
