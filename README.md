@@ -922,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
 | [1531-string-compression-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1531-string-compression-ii) |
 | [1542-find-longest-awesome-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1542-find-longest-awesome-substring) |
+| [1556-thousand-separator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
