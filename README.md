@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1572-matrix-diagonal-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1572-matrix-diagonal-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1572-matrix-diagonal-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1572-matrix-diagonal-sum) |
 | [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
