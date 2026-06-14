@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1550-three-consecutive-odds](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1552-magnetic-force-between-two-balls) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1518-water-bottles) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
