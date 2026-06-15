@@ -922,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1528-shuffle-string) |
 | [1531-string-compression-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1531-string-compression-ii) |
 | [1542-find-longest-awesome-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1542-find-longest-awesome-substring) |
+| [1544-make-the-string-great](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
@@ -2158,6 +2159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1106-parsing-a-boolean-expression) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1544-make-the-string-great](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
