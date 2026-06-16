@@ -947,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2047-number-of-valid-words-in-a-sentence) |
@@ -1176,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2103-rings-and-rods](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2103-rings-and-rods) |
@@ -1221,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
