@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2119-a-number-after-a-double-reversal) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -1904,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
