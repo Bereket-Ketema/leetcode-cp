@@ -1045,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0208-implement-trie-prefix-tree) |
@@ -1549,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
@@ -2258,6 +2260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0234-palindrome-linked-list) |
