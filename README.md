@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0745-prefix-and-suffix-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0748-shortest-completing-word) |
 | [0749-contain-virus](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0749-contain-virus) |
@@ -2021,6 +2022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0730-count-different-palindromic-subsequences) |
+| [0746-min-cost-climbing-stairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0764-largest-plus-sign) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0788-rotated-digits) |
