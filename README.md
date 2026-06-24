@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0672-bulb-switcher-ii) |
 | [0710-random-pick-with-blacklist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0710-random-pick-with-blacklist) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0770-basic-calculator-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0770-basic-calculator-iv) |
 | [0780-reaching-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0781-rabbits-in-forest) |
@@ -1465,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0782-transform-to-chessboard](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0847-shortest-path-visiting-all-nodes) |
