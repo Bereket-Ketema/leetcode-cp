@@ -935,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1592-rearrange-spaces-between-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1616-split-two-strings-to-make-palindrome) |
