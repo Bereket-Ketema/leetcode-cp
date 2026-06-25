@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
 | [1629-slowest-key](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -1348,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -1432,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2089-find-target-indices-after-sorting-array) |
