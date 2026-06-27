@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2050-parallel-courses-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
@@ -2110,6 +2111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1745-palindrome-partitioning-iv) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1771-maximize-palindrome-length-from-subsequences) |
+| [2050-parallel-courses-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Sliding Window
 |  |
@@ -2828,6 +2830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2050-parallel-courses-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 ## Eulerian Circuit
 |  |
@@ -2945,6 +2948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0310-minimum-height-trees) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
+| [2050-parallel-courses-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2050-parallel-courses-iii) |
 ## Iterator
 |  |
 | ------- |
