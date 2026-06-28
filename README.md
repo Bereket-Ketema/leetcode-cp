@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2050-parallel-courses-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1368,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1834-single-threaded-cpu](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1834-single-threaded-cpu) |
 | [1859-sorting-the-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1859-sorting-the-sentence) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1943,6 +1945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -1957,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
