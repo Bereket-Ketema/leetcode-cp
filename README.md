@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1652-defuse-the-bomb) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1672-richest-customer-wealth](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1672-richest-customer-wealth) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1591-strange-printer-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1591-strange-printer-ii) |
+| [1672-richest-customer-wealth](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
