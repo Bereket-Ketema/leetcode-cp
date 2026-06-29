@@ -947,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1629-slowest-key](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1629-slowest-key) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [1678-goal-parser-interpretation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1678-goal-parser-interpretation) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1745-palindrome-partitioning-iv) |
 | [1768-merge-strings-alternately](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1768-merge-strings-alternately) |
