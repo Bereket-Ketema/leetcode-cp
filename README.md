@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1622-fancy-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1622-fancy-sequence) |
+| [1688-count-of-matches-in-tournament](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1776-car-fleet-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1776-car-fleet-ii) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1808-maximize-number-of-nice-divisors) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1603-design-parking-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1603-design-parking-system) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1646-get-maximum-in-generated-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1920-build-array-from-permutation) |
