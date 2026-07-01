@@ -2792,6 +2792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Binary Search Tree
 |  |
