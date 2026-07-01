@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1732-find-the-highest-altitude) |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1710-maximum-units-on-a-truck](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1834-single-threaded-cpu) |
 | [1859-sorting-the-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -1948,6 +1950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1642-furthest-building-you-can-reach](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1642-furthest-building-you-can-reach) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
