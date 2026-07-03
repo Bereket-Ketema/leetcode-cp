@@ -1,0 +1,13 @@
+from collections import Counter
+
+class Solution:
+    def kthDistinct(self, arr, k):
+        cnt = Counter(arr)
+
+        for s in arr:
+            if cnt[s] == 1:
+                k -= 1
+                if k == 0:
+                    return s
+
+        return ""
