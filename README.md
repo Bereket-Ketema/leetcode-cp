@@ -974,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2103-rings-and-rods](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2103-rings-and-rods) |
@@ -1955,6 +1956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
