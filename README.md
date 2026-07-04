@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2239-find-closest-number-to-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2553-separate-the-digits-in-an-array) |
@@ -1225,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2103-rings-and-rods](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2103-rings-and-rods) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
@@ -1398,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2578-split-with-minimum-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2578-split-with-minimum-sum) |
