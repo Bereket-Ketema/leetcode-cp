@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1629-slowest-key) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1745-palindrome-partitioning-iv) |
 | [1768-merge-strings-alternately](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1768-merge-strings-alternately) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-check-array-formation-through-concatenation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1640-check-array-formation-through-concatenation) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -1277,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1603-design-parking-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -1550,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1542-find-longest-awesome-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1542-find-longest-awesome-substring) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1720-decode-xored-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2032-two-out-of-three) |
