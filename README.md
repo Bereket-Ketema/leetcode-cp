@@ -1014,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3210-find-the-encrypted-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
