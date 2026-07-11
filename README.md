@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2239-find-closest-number-to-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2103-rings-and-rods) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
@@ -1308,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
