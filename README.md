@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2239-find-closest-number-to-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2129-capitalize-the-title) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
@@ -1736,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-find-all-good-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1397-find-all-good-strings) |
 | [1408-string-matching-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
