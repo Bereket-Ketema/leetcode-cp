@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2239-find-closest-number-to-zero) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
