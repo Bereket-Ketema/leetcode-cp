@@ -1026,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
@@ -1276,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
@@ -1329,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
