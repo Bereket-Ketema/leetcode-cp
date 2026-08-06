@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
