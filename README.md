@@ -2917,6 +2917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1873-calculate-special-bonus/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Binary Search Tree
