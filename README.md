@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1834-single-threaded-cpu](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1834-single-threaded-cpu) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1854-maximum-population-year](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1854-maximum-population-year/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
