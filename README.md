@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2582-pass-the-pillow) |
