@@ -1011,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1768-merge-strings-alternately) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1773-count-items-matching-a-rule](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1773-count-items-matching-a-rule) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1805-number-of-different-integers-in-a-string) |
