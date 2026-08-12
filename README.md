@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2094-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2928-distribute-candies-among-children-i/) | Easy |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2299-strong-password-checker-ii/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
@@ -1315,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
