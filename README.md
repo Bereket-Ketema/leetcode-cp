@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Matrix
@@ -1339,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3541-find-most-frequent-vowel-and-consonant) |
