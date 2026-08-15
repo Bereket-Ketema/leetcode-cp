@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2363-merge-similar-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2363-merge-similar-items/) | Easy |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
@@ -1329,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
+| [2363-merge-similar-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2399-check-distances-between-same-letters/) | Easy |
@@ -1526,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2363-merge-similar-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2578-split-with-minimum-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2578-split-with-minimum-sum) |
@@ -2449,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0895-maximum-frequency-stack) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
+| [2363-merge-similar-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2363-merge-similar-items/) | Easy |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
