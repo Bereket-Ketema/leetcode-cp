@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2293-min-max-game/) | Easy |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2363-merge-similar-items/) | Easy |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
 | [3033-modify-the-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3033-modify-the-matrix) |
 ## String
