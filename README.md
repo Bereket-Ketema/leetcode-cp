@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
+| [1925-count-square-sum-triples](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2094-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2259-remove-digit-from-number-to-maximize-result) |
