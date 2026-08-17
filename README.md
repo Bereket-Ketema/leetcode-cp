@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -1519,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1834-single-threaded-cpu) |
 | [1859-sorting-the-sentence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1859-sorting-the-sentence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -3213,4 +3215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1192-critical-connections-in-a-network) |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
