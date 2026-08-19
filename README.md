@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1402-reducing-dishes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1402-reducing-dishes) |
@@ -1297,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1370-increasing-decreasing-string) |
+| [1386-cinema-seat-allocation](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1399-count-largest-group) |
 | [1436-destination-city](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1436-destination-city) |
@@ -1669,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1486-xor-operation-in-an-array) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1542-find-longest-awesome-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1542-find-longest-awesome-substring) |
@@ -2111,6 +2114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1330-reverse-subarray-to-maximize-array-value) |
+| [1386-cinema-seat-allocation](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1402-reducing-dishes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
