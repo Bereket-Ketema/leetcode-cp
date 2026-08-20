@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1629-slowest-key](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -1519,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
