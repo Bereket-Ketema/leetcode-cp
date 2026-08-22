@@ -1029,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1745-palindrome-partitioning-iv) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -1399,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1603-design-parking-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
