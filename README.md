@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1925-count-square-sum-triples/) | Easy |
+| [1927-sum-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1927-sum-game/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1927-sum-game/) | Medium |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -2147,6 +2149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1927-sum-game/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -2177,6 +2180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1927-sum-game/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
