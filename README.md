@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1925-count-square-sum-triples/) | Easy |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1854-maximum-population-year](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1854-maximum-population-year/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -1924,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1732-find-the-highest-altitude](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1854-maximum-population-year/) | Easy |
+| [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -2180,6 +2183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1927-sum-game/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
@@ -2333,6 +2337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1745-palindrome-partitioning-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1745-palindrome-partitioning-iv) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1771-maximize-palindrome-length-from-subsequences) |
+| [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Sliding Window
@@ -3249,4 +3254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
