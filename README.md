@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3386-button-with-longest-push-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3386-button-with-longest-push-time/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1379,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
