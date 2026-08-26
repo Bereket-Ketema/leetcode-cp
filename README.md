@@ -1095,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -2373,6 +2374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
 | [1652-defuse-the-bomb](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
