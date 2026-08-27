@@ -1708,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2032-two-out-of-three](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2032-two-out-of-three) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2595-number-of-even-and-odd-bits) |
