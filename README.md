@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2347-best-poker-hand/) | Easy |
 | [2363-merge-similar-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2363-merge-similar-items/) | Easy |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -1367,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2347-best-poker-hand/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2363-merge-similar-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -1438,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2347-best-poker-hand/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
