@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
