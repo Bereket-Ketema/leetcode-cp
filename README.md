@@ -737,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
+| [2451-odd-string-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2451-odd-string-difference/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
+| [2451-odd-string-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2451-odd-string-difference/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
+| [2451-odd-string-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2451-odd-string-difference/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
