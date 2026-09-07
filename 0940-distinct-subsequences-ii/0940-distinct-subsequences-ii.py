@@ -1,16 +1,17 @@
 class Solution:
-    def distinctSubseqII(self, s):
+    def distinctSubseqII(self, s: str) -> int:
         MOD = 10**9 + 7
+
         dp = 1
-        last = {}
+
+        last = [0] * 26
 
         for c in s:
-            new_dp = (dp * 2) % MOD
+            x = ord(c) - ord('a')
 
-            if c in last:
-                new_dp = (new_dp - last[c]) % MOD
+            new_dp = (2 * dp - last[x]) % MOD
 
-            last[c] = dp
+            last[x] = dp
             dp = new_dp
 
         return (dp - 1) % MOD
