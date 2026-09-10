@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2427-number-of-common-factors) |
+| [2437-number-of-valid-clock-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -1117,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
+| [2437-number-of-valid-clock-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2451-odd-string-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2451-odd-string-difference/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
