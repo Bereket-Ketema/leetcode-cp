@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Number Theory
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3386-button-with-longest-push-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3386-button-with-longest-push-time/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -1411,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -2014,6 +2017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
