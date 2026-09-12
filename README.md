@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3386-button-with-longest-push-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3386-button-with-longest-push-time/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1612,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2578-split-with-minimum-sum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -1690,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2408,6 +2411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
