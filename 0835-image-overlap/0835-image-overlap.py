@@ -1,9 +1,16 @@
 class Solution:
-    def largestOverlap(self, img1, img2):
-        from collections import Counter
+    def largestOverlap(self, img1: List[List[int]], img2: List[List[int]]) -> int:
+        n = len(img1)
+        a_ones = [(r, c) for r in range(n) for c in range(n) if img1[r][c] == 1]
+        b_ones = [(r, c) for r in range(n) for c in range(n) if img2[r][c] == 1]
         
-        A = [(i, j) for i in range(len(img1)) for j in range(len(img1)) if img1[i][j]]
-        B = [(i, j) for i in range(len(img2)) for j in range(len(img2)) if img2[i][j]]
+        counts = collections.Counter()
+        max_overlaps = 0
         
-        count = Counter((ax-bx, ay-by) for ax, ay in A for bx, by in B)
-        return max(count.values() or [0])
+        for r1, c1 in a_ones:
+            for r2, c2 in b_ones:
+                shift = (r2 - r1, c2 - c1)
+                counts[shift] += 1
+                max_overlaps = max(max_overlaps, counts[shift])
+                
+        return max_overlaps
