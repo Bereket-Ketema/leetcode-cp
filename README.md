@@ -743,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2432-the-employee-that-worked-on-the-longest-task/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2451-odd-string-difference/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -1123,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2418-sort-the-people) |
 | [2437-number-of-valid-clock-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2437-number-of-valid-clock-times/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2451-odd-string-difference/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
