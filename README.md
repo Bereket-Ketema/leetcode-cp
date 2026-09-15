@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2451-odd-string-difference/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -1195,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2553-separate-the-digits-in-an-array) |
 | [2582-pass-the-pillow](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2582-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -1895,6 +1897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
