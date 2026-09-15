@@ -1126,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2451-odd-string-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2451-odd-string-difference/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -1894,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -2238,6 +2240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2383-minimum-hours-of-training-to-win-a-competition/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2578-split-with-minimum-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2578-split-with-minimum-sum) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -2417,6 +2420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1872-stone-game-viii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
