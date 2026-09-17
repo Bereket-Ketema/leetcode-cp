@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1478-allocate-mailboxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1478-allocate-mailboxes) |
 | [1480-running-sum-of-1d-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1480-running-sum-of-1d-array) |
 | [1499-max-value-of-equation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1499-max-value-of-equation) |
@@ -1364,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1399-count-largest-group) |
 | [1436-destination-city](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1496-path-crossing](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1689,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1539-kth-missing-positive-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1539-kth-missing-positive-number) |
@@ -2410,6 +2413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1478-allocate-mailboxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -2453,6 +2457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1044-longest-duplicate-substring) |
 | [1425-constrained-subsequence-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1499-max-value-of-equation](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1499-max-value-of-equation) |
 | [1610-maximum-number-of-visible-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1610-maximum-number-of-visible-points) |
 | [1652-defuse-the-bomb](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1652-defuse-the-bomb) |
