@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2347-best-poker-hand/) | Easy |
@@ -1616,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2363-merge-similar-items/) | Easy |
@@ -1702,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1649-create-sorted-array-through-instructions) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -1830,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1834-single-threaded-cpu) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Two Pointers
@@ -2244,6 +2248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2366-minimum-replacements-to-sort-the-array) |
