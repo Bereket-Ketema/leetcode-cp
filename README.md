@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2427-number-of-common-factors) |
 | [2437-number-of-valid-clock-times](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
