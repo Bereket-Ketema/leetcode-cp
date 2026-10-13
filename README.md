@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3033-modify-the-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3033-modify-the-matrix) |
@@ -1422,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2671-frequency-tracker](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2671-frequency-tracker) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3046-split-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3046-split-the-array) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
@@ -1779,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2595-number-of-even-and-odd-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -2259,6 +2262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2578-split-with-minimum-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2578-split-with-minimum-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting Sort
