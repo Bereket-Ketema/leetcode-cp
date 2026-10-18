@@ -1,24 +1,19 @@
-from math import comb
+from typing import List
+import math
 
 class Solution:
-    def numOfWays(self, nums):
-        MOD = 10**9 + 7
+    def numOfWays(self, nums: List[int]) -> int:
+        MOD = 1_000_000_007
 
-        def dfs(arr):
+        def count(arr: List[int]) -> int:
             if len(arr) <= 2:
                 return 1
 
             root = arr[0]
-            left = [x for x in arr[1:] if x < root]
-            right = [x for x in arr[1:] if x > root]
+            left = [x for x in arr if x < root]
+            right = [x for x in arr if x > root]
 
-            leftWays = dfs(left)
-            rightWays = dfs(right)
+            total_comb = math.comb(len(left) + len(right), len(left)) % MOD
+            return (total_comb * count(left) * count(right)) % MOD
 
-            return (
-                comb(len(left) + len(right), len(left))
-                * leftWays
-                * rightWays
-            ) % MOD
-
-        return (dfs(nums) - 1) % MOD
+        return (count(nums) - 1) % MOD
