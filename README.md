@@ -1158,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3798-largest-even-number) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
