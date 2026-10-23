@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3527-find-the-most-common-response](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3527-find-the-most-common-response) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -1791,6 +1792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
