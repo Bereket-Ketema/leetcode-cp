@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-maximum-equal-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1224-maximum-equal-frequency) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0999-available-captures-for-rook) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -2171,6 +2173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0928-minimize-malware-spread-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0952-largest-component-size-by-common-factor) |
+| [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -2837,6 +2840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1036-escape-a-large-maze) |
 | [1192-critical-connections-in-a-network](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -2996,6 +3000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1096-brace-expansion-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
