@@ -780,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3033-modify-the-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2463,6 +2465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
