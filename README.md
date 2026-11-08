@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -1474,6 +1476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1267-count-servers-that-communicate](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-increasing-decreasing-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1370-increasing-decreasing-string) |
@@ -2189,6 +2192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0928-minimize-malware-spread-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0952-largest-component-size-by-common-factor) |
 | [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -2860,6 +2864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -3023,6 +3028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
