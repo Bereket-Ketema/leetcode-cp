@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
