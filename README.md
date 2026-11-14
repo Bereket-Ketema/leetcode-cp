@@ -777,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3386-button-with-longest-push-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3386-button-with-longest-push-time/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -2049,6 +2050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2381-shifting-letters-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3707-equal-score-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -2519,6 +2521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
