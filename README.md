@@ -1160,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
