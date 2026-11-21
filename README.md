@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3386-button-with-longest-push-time](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3386-button-with-longest-push-time/) | Easy |
@@ -1169,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3210-find-the-encrypted-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3340-check-balanced-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1459,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3083-existence-of-a-substring-in-a-string-and-its-reverse/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -2794,6 +2797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -2903,6 +2907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
