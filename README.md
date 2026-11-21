@@ -773,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3033-modify-the-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3033-modify-the-matrix) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3046-split-the-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -1664,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -2495,6 +2497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3693-climbing-stairs-ii/) | Medium |
