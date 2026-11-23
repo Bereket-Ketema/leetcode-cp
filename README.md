@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1323-maximum-69-number) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -2048,6 +2050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1109-corporate-flight-bookings](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1480-running-sum-of-1d-array](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1480-running-sum-of-1d-array) |
@@ -2179,6 +2182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1032-stream-of-characters) |
 | [1157-online-majority-element-in-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1157-online-majority-element-in-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1603-design-parking-system](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1622-fancy-sequence) |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
@@ -2619,6 +2623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1032-stream-of-characters) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1656-design-an-ordered-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/1656-design-an-ordered-stream) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
