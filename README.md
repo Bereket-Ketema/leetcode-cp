@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3360-stone-removal-game/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -1243,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3360-stone-removal-game/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3582-generate-tag-for-video-caption) |
 ## Combinatorics
