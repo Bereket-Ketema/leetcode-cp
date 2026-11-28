@@ -807,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1679,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1891,6 +1893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -2330,6 +2333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Bereket-Ketema/leetcode-cp/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
